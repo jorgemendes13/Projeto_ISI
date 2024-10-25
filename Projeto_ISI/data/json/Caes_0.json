@@ -1,0 +1,1366 @@
+[ {
+  "Nome" : "SOPHIA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 19,
+  "DataNascimento" : "2005-03-07",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "DARA",
+  "Genero" : "F",
+  "Raca" : "Cocker Spaniel Ingles",
+  "Idade" : 29,
+  "DataNascimento" : "1995-03-12",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "MINE",
+  "Genero" : "F",
+  "Raca" : "Rottweiler",
+  "Idade" : 27,
+  "DataNascimento" : "1997-03-23",
+  "Pelo" : "Preto e Marrom"
+}, {
+  "Nome" : "MILA",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 18,
+  "DataNascimento" : "2006-01-26",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "PANTERA",
+  "Genero" : "F",
+  "Raca" : "Dogue Alemao",
+  "Idade" : 26,
+  "DataNascimento" : "1998-07-02",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "VENUS",
+  "Genero" : "M",
+  "Raca" : "Husky Siberiano",
+  "Idade" : 31,
+  "DataNascimento" : "1993-03-12",
+  "Pelo" : "Cinza"
+}, {
+  "Nome" : "LASSY",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-01-12",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "MEL",
+  "Genero" : "F",
+  "Raca" : "Pequines",
+  "Idade" : 18,
+  "DataNascimento" : "2006-03-28",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "PITHULA",
+  "Genero" : "F",
+  "Raca" : "Poodle Standard",
+  "Idade" : 20,
+  "DataNascimento" : "2004-03-07",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "TITA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 20,
+  "DataNascimento" : "2004-01-26",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "KEITY",
+  "Genero" : "F",
+  "Raca" : "Dobermann",
+  "Idade" : 26,
+  "DataNascimento" : "1998-03-05",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "SASQUASH",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-06",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "BRUTUS",
+  "Genero" : "M",
+  "Raca" : "Schnauzer",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-14",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "BETHOWEN",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-11",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "LAILA",
+  "Genero" : "F",
+  "Raca" : "Rottweiler",
+  "Idade" : 21,
+  "DataNascimento" : "2002-11-15",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "NEGONA",
+  "Genero" : "F",
+  "Raca" : "Pastor Alemao",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-20",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "TAYSON",
+  "Genero" : "M",
+  "Raca" : "Rottweiler",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-29",
+  "Pelo" : "Preto e Marrom"
+}, {
+  "Nome" : "OHARA",
+  "Genero" : "F",
+  "Raca" : "Poodle Standard",
+  "Idade" : 27,
+  "DataNascimento" : "1997-07-12",
+  "Pelo" : "Cinza"
+}, {
+  "Nome" : "SHAWILL",
+  "Genero" : "M",
+  "Raca" : "Chow Chow",
+  "Idade" : 21,
+  "DataNascimento" : "2003-03-18",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "BELA",
+  "Genero" : "F",
+  "Raca" : "Bee",
+  "Idade" : 22,
+  "DataNascimento" : "2002-03-10",
+  "Pelo" : "Preto e Marrom"
+}, {
+  "Nome" : "ATILA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 25,
+  "DataNascimento" : "1999-03-15",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "KIKA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 25,
+  "DataNascimento" : "1999-07-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "SHEIK",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 30,
+  "DataNascimento" : "1994-06-12",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "HARU",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-06-01",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "SUSY",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 21,
+  "DataNascimento" : "2003-03-12",
+  "Pelo" : "Cinza"
+}, {
+  "Nome" : "ELFI DO CARATUVA",
+  "Genero" : "F",
+  "Raca" : "Pastor Alemao",
+  "Idade" : 20,
+  "DataNascimento" : "2003-11-03",
+  "Pelo" : "Preto e Marrom"
+}, {
+  "Nome" : "NERO AUGUSTO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2005-11-28",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "SAMIR",
+  "Genero" : "M",
+  "Raca" : "Poodle Standard",
+  "Idade" : 24,
+  "DataNascimento" : "1999-11-10",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "FRED",
+  "Genero" : "M",
+  "Raca" : "Teckel",
+  "Idade" : 21,
+  "DataNascimento" : "2003-06-08",
+  "Pelo" : "Champanhe"
+}, {
+  "Nome" : "AQUILES",
+  "Genero" : "M",
+  "Raca" : "Rottweiler",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-18",
+  "Pelo" : "Tigrado"
+}, {
+  "Nome" : "BAMBINA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-17",
+  "Pelo" : "Dourado"
+}, {
+  "Nome" : "RAMBO",
+  "Genero" : "M",
+  "Raca" : "Pinscher",
+  "Idade" : 18,
+  "DataNascimento" : "2005-11-08",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "ATILA",
+  "Genero" : "M",
+  "Raca" : "Pastor Belga",
+  "Idade" : 27,
+  "DataNascimento" : "1997-07-09",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "NATASHA",
+  "Genero" : "F",
+  "Raca" : "Cocker Spaniel Americano",
+  "Idade" : 26,
+  "DataNascimento" : "1998-07-20",
+  "Pelo" : "Dourado"
+}, {
+  "Nome" : "VALENTE",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 30,
+  "DataNascimento" : "1994-03-08",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "MEG DE OLIVEIRA",
+  "Genero" : "F",
+  "Raca" : "Poodle Standard",
+  "Idade" : 20,
+  "DataNascimento" : "2004-06-02",
+  "Pelo" : "Cinza"
+}, {
+  "Nome" : "GABY",
+  "Genero" : "F",
+  "Raca" : "Shar- Pei",
+  "Idade" : 22,
+  "DataNascimento" : "2002-06-04",
+  "Pelo" : "Dourado"
+}, {
+  "Nome" : "FLORZINHA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-25",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "HITSA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 30,
+  "DataNascimento" : "1994-01-23",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "PINTADO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-10",
+  "Pelo" : "Branco e Marrom"
+}, {
+  "Nome" : "PRETO",
+  "Genero" : "F",
+  "Raca" : "Dogue Alemao",
+  "Idade" : 18,
+  "DataNascimento" : "2006-06-05",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "PRETINHA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 32,
+  "DataNascimento" : "1992-01-20",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "REX",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 19,
+  "DataNascimento" : "2005-07-01",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "TAYLA",
+  "Genero" : "F",
+  "Raca" : "Chihuahua",
+  "Idade" : 19,
+  "DataNascimento" : "2005-07-29",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "FREDERICO",
+  "Genero" : "M",
+  "Raca" : "Pinscher",
+  "Idade" : 20,
+  "DataNascimento" : "2003-11-15",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "NEVE",
+  "Genero" : "F",
+  "Raca" : "Akita",
+  "Idade" : 27,
+  "DataNascimento" : "1997-01-02",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "SAFIRA",
+  "Genero" : "F",
+  "Raca" : "Dogue Alemao",
+  "Idade" : 29,
+  "DataNascimento" : "1995-01-21",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "BAMBAM",
+  "Genero" : "M",
+  "Raca" : "Pinscher",
+  "Idade" : 21,
+  "DataNascimento" : "2003-06-12",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "BETHOVEM",
+  "Genero" : "M",
+  "Raca" : "Dobermann",
+  "Idade" : 28,
+  "DataNascimento" : "1996-01-02",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "LUNA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-06-30",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "HALF",
+  "Genero" : "M",
+  "Raca" : "Poodle Gigante",
+  "Idade" : 20,
+  "DataNascimento" : "2004-07-18",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "PITTY",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 25,
+  "DataNascimento" : "1999-01-05",
+  "Pelo" : "Dourado"
+}, {
+  "Nome" : "YAMA",
+  "Genero" : "F",
+  "Raca" : "Rottweiler",
+  "Idade" : 20,
+  "DataNascimento" : "2004-06-04",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "KEIVA",
+  "Genero" : "F",
+  "Raca" : "Cocker Spaniel Ingles",
+  "Idade" : 20,
+  "DataNascimento" : "2004-06-16",
+  "Pelo" : "Dourado"
+}, {
+  "Nome" : "PUFF",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-01-07",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "LAILA",
+  "Genero" : "F",
+  "Raca" : "Yorkshire Terrier",
+  "Idade" : 20,
+  "DataNascimento" : "2003-11-21",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "HERCULES",
+  "Genero" : "M",
+  "Raca" : "Rottweiler",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-07",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "JHON PIT",
+  "Genero" : "M",
+  "Raca" : "Pinscher",
+  "Idade" : 32,
+  "DataNascimento" : "1992-06-05",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "DUQUESA",
+  "Genero" : "F",
+  "Raca" : "Cocker Spaniel Ingles",
+  "Idade" : 24,
+  "DataNascimento" : "1999-11-01",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "JHULY PANTOJA DOS ANJOS",
+  "Genero" : "F",
+  "Raca" : "Pinscher",
+  "Idade" : 18,
+  "DataNascimento" : "2006-01-15",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "PANDORA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 22,
+  "DataNascimento" : "2002-03-05",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "BILLY",
+  "Genero" : "M",
+  "Raca" : "Poodle Toy",
+  "Idade" : 34,
+  "DataNascimento" : "1990-03-06",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "JESSICA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 24,
+  "DataNascimento" : "2000-01-10",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "LUNA",
+  "Genero" : "F",
+  "Raca" : "Dachshund",
+  "Idade" : 19,
+  "DataNascimento" : "2005-03-02",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "THAISON",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 28,
+  "DataNascimento" : "1996-01-05",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "BETOVEM",
+  "Genero" : "M",
+  "Raca" : "Pinscher",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-18",
+  "Pelo" : "Dourado"
+}, {
+  "Nome" : "XERETA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 25,
+  "DataNascimento" : "1999-03-01",
+  "Pelo" : "Tigrado"
+}, {
+  "Nome" : "BABY",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 27,
+  "DataNascimento" : "1997-03-01",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "NINO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-01",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "HUGO",
+  "Genero" : "M",
+  "Raca" : "Poodle Standard",
+  "Idade" : 18,
+  "DataNascimento" : "2006-01-20",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "BANISTER",
+  "Genero" : "M",
+  "Raca" : "Cocker Spaniel Americano",
+  "Idade" : 27,
+  "DataNascimento" : "1997-07-08",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "LOLITA",
+  "Genero" : "F",
+  "Raca" : "Pinscher",
+  "Idade" : 21,
+  "DataNascimento" : "2003-06-18",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "PRISCILA",
+  "Genero" : "F",
+  "Raca" : "Cocker Spaniel Americano",
+  "Idade" : 27,
+  "DataNascimento" : "1997-03-08",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "ZUKI",
+  "Genero" : "M",
+  "Raca" : "Bullterrier",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-20",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "MADONA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-10",
+  "Pelo" : "Branco e Marrom"
+}, {
+  "Nome" : "HANNA",
+  "Genero" : "F",
+  "Raca" : "Retriever do Labrador",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-18",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "MENINA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-03-02",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "ANGRA",
+  "Genero" : "F",
+  "Raca" : "Fila Brasileiro",
+  "Idade" : 24,
+  "DataNascimento" : "2000-06-04",
+  "Pelo" : "Tigrado"
+}, {
+  "Nome" : "PRINCIPE",
+  "Genero" : "M",
+  "Raca" : "Poodle Standard",
+  "Idade" : 19,
+  "DataNascimento" : "2005-03-10",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "SASHA LARRAT",
+  "Genero" : "F",
+  "Raca" : "Pinscher",
+  "Idade" : 27,
+  "DataNascimento" : "1997-01-29",
+  "Pelo" : "Preto e Marrom"
+}, {
+  "Nome" : "POCOTA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 28,
+  "DataNascimento" : "1996-07-01",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "NEGAO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-06-15",
+  "Pelo" : "Preto e Marrom"
+}, {
+  "Nome" : "NINA",
+  "Genero" : "F",
+  "Raca" : "Bee",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-01",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "TUBO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 19,
+  "DataNascimento" : "2005-03-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "BAMBAM",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-15",
+  "Pelo" : "Branco e Bege"
+}, {
+  "Nome" : "HANA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-12",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "PITCHUCA",
+  "Genero" : "M",
+  "Raca" : "Poodle Toy",
+  "Idade" : 24,
+  "DataNascimento" : "2000-03-20",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "CARMINA BURANA",
+  "Genero" : "F",
+  "Raca" : "Husky Siberiano",
+  "Idade" : 32,
+  "DataNascimento" : "1992-03-01",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "JUJU",
+  "Genero" : "M",
+  "Raca" : "Poodle Gigante",
+  "Idade" : 21,
+  "DataNascimento" : "2003-03-12",
+  "Pelo" : "Branco e Marrom"
+}, {
+  "Nome" : "TOTO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-01",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "MICKEY",
+  "Genero" : "M",
+  "Raca" : "Cocker Spaniel Ingles",
+  "Idade" : 27,
+  "DataNascimento" : "1997-03-20",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "CACAU",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "POLLY",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 26,
+  "DataNascimento" : "1998-01-17",
+  "Pelo" : "Champanhe"
+}, {
+  "Nome" : "FLIPER",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 20,
+  "DataNascimento" : "2004-03-01",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "PIT",
+  "Genero" : "F",
+  "Raca" : "Pit Bull",
+  "Idade" : 18,
+  "DataNascimento" : "2005-11-30",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "SUZY",
+  "Genero" : "F",
+  "Raca" : "Bee",
+  "Idade" : 26,
+  "DataNascimento" : "1998-07-05",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "RAILA",
+  "Genero" : "F",
+  "Raca" : "Pastor Alemao",
+  "Idade" : 23,
+  "DataNascimento" : "2001-01-10",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "MONALISA",
+  "Genero" : "F",
+  "Raca" : "Poodle Micro",
+  "Idade" : 26,
+  "DataNascimento" : "1998-06-22",
+  "Pelo" : "Branco e Cinza"
+}, {
+  "Nome" : "PRETINHO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 22,
+  "DataNascimento" : "2002-03-14",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "FRED",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-01",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "LINDINHA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 19,
+  "DataNascimento" : "2005-01-14",
+  "Pelo" : "Branco e Marrom"
+}, {
+  "Nome" : "LINDINHA",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 21,
+  "DataNascimento" : "2003-03-13",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "ALEX",
+  "Genero" : "M",
+  "Raca" : "Cocker Spaniel Americano",
+  "Idade" : 28,
+  "DataNascimento" : "1996-03-15",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "BRUCE",
+  "Genero" : "M",
+  "Raca" : "Rottweiler",
+  "Idade" : 23,
+  "DataNascimento" : "2001-03-15",
+  "Pelo" : "Tigrado"
+}, {
+  "Nome" : "ALEMAO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 24,
+  "DataNascimento" : "2000-01-10",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "PANDA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-30",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "FILO",
+  "Genero" : "F",
+  "Raca" : "Pastor Belga",
+  "Idade" : 27,
+  "DataNascimento" : "1997-03-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "BABY",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-15",
+  "Pelo" : "Preto e Marrom"
+}, {
+  "Nome" : "PATOCA",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 26,
+  "DataNascimento" : "1998-03-25",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "FRED",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 32,
+  "DataNascimento" : "1992-06-06",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "PINGO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2005-11-10",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "PINGO",
+  "Genero" : "M",
+  "Raca" : "Poodle Toy",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-15",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "URSO OTAVIO GALVAO MONTEIRO",
+  "Genero" : "M",
+  "Raca" : "Shih- Tzu",
+  "Idade" : 20,
+  "DataNascimento" : "2003-11-30",
+  "Pelo" : "Branco e Cinza"
+}, {
+  "Nome" : "CHARMOSA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 21,
+  "DataNascimento" : "2003-01-24",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "CLARINHA",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-14",
+  "Pelo" : "Branco e Bege"
+}, {
+  "Nome" : "BARBIE",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-21",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "BETHOVEN",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 21,
+  "DataNascimento" : "2003-07-10",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "DOLLY",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-18",
+  "Pelo" : "Cinza"
+}, {
+  "Nome" : "PELE",
+  "Genero" : "M",
+  "Raca" : "Mastiff",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-10",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "LYNK",
+  "Genero" : "M",
+  "Raca" : "Poodle Toy",
+  "Idade" : 27,
+  "DataNascimento" : "1996-11-16",
+  "Pelo" : "Cinza"
+}, {
+  "Nome" : "MAYLON",
+  "Genero" : "M",
+  "Raca" : "Cocker Spaniel Ingles",
+  "Idade" : 21,
+  "DataNascimento" : "2003-06-06",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "NICOLE",
+  "Genero" : "M",
+  "Raca" : "Pit Bull",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-01",
+  "Pelo" : "Tigrado"
+}, {
+  "Nome" : "LOLA",
+  "Genero" : "F",
+  "Raca" : "Rottweiler",
+  "Idade" : 18,
+  "DataNascimento" : "2006-03-07",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "XUCA",
+  "Genero" : "F",
+  "Raca" : "Dogue Alemao",
+  "Idade" : 26,
+  "DataNascimento" : "1998-03-28",
+  "Pelo" : "Arlequim"
+}, {
+  "Nome" : "LIK",
+  "Genero" : "M",
+  "Raca" : "Cocker Spaniel Ingles",
+  "Idade" : 22,
+  "DataNascimento" : "2002-03-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "JUMA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 28,
+  "DataNascimento" : "1996-03-22",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "NANA",
+  "Genero" : "F",
+  "Raca" : "Beagle",
+  "Idade" : 22,
+  "DataNascimento" : "2002-03-22",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "VENUS",
+  "Genero" : "F",
+  "Raca" : "American Staffordshire Terrier",
+  "Idade" : 19,
+  "DataNascimento" : "2005-01-21",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "MIUCHA",
+  "Genero" : "F",
+  "Raca" : "Poodle Micro",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-26",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "BABY",
+  "Genero" : "F",
+  "Raca" : "Rottweiler",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "DURVALINO",
+  "Genero" : "M",
+  "Raca" : "Cocker Spaniel Americano",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-30",
+  "Pelo" : "Branco e Bege"
+}, {
+  "Nome" : "PAPAO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-10",
+  "Pelo" : "Bege"
+}, {
+  "Nome" : "MEG",
+  "Genero" : "F",
+  "Raca" : "Yorkshire Terrier",
+  "Idade" : 19,
+  "DataNascimento" : "2004-11-07",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "BIDU",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 24,
+  "DataNascimento" : "2000-03-10",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "FLAYK",
+  "Genero" : "M",
+  "Raca" : "Poodle Toy",
+  "Idade" : 19,
+  "DataNascimento" : "2005-03-10",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "SMITH WILLAN",
+  "Genero" : "M",
+  "Raca" : "Spitz",
+  "Idade" : 18,
+  "DataNascimento" : "2006-03-27",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "BUG",
+  "Genero" : "M",
+  "Raca" : "Dobermann",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-20",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "DENISE",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 27,
+  "DataNascimento" : "1997-03-26",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "BIANCA",
+  "Genero" : "F",
+  "Raca" : "Pequines",
+  "Idade" : 33,
+  "DataNascimento" : "1991-03-23",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "FRIGG",
+  "Genero" : "F",
+  "Raca" : "Pit Bull",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-16",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "PRINCESA",
+  "Genero" : "F",
+  "Raca" : "Fila Brasileiro",
+  "Idade" : 25,
+  "DataNascimento" : "1999-03-17",
+  "Pelo" : "Dourado"
+}, {
+  "Nome" : "FRED",
+  "Genero" : "M",
+  "Raca" : "Fila Brasileiro",
+  "Idade" : 19,
+  "DataNascimento" : "2005-01-01",
+  "Pelo" : "Dourado"
+}, {
+  "Nome" : "LUCIO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-15",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "BOB",
+  "Genero" : "M",
+  "Raca" : "Pinscher",
+  "Idade" : 20,
+  "DataNascimento" : "2004-07-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "LION",
+  "Genero" : "M",
+  "Raca" : "Poodle Toy",
+  "Idade" : 32,
+  "DataNascimento" : "1992-07-24",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "BILU",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 26,
+  "DataNascimento" : "1998-01-02",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "LASSIE",
+  "Genero" : "F",
+  "Raca" : "Collie",
+  "Idade" : 28,
+  "DataNascimento" : "1996-06-12",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "HERCULES",
+  "Genero" : "M",
+  "Raca" : "Husky Siberiano",
+  "Idade" : 21,
+  "DataNascimento" : "2003-01-29",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "OZZY",
+  "Genero" : "M",
+  "Raca" : "Rottweiler",
+  "Idade" : 30,
+  "DataNascimento" : "1994-03-11",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "PANTERA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 22,
+  "DataNascimento" : "2002-03-15",
+  "Pelo" : "Preto e Marrom"
+}, {
+  "Nome" : "PERNALONGA",
+  "Genero" : "M",
+  "Raca" : "Dobermann",
+  "Idade" : 23,
+  "DataNascimento" : "2001-06-12",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "MOLEQUE",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 20,
+  "DataNascimento" : "2004-06-10",
+  "Pelo" : "Branco e Marrom"
+}, {
+  "Nome" : "GARCIA",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-30",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "BOB",
+  "Genero" : "M",
+  "Raca" : "Bee",
+  "Idade" : 31,
+  "DataNascimento" : "1993-03-01",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "MEL",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 19,
+  "DataNascimento" : "2005-01-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "ZULU",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 22,
+  "DataNascimento" : "2002-01-12",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "ELFI DO CARATUVA",
+  "Genero" : "F",
+  "Raca" : "Pastor Alemao",
+  "Idade" : 20,
+  "DataNascimento" : "2003-11-03",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "IGOR DE ALMEIDA ARAUJO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 24,
+  "DataNascimento" : "2000-07-15",
+  "Pelo" : "Cinza"
+}, {
+  "Nome" : "XUXA",
+  "Genero" : "F",
+  "Raca" : "Pit Bull",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-20",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "PIT",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 29,
+  "DataNascimento" : "1995-01-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "ROSEA",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-10",
+  "Pelo" : "Bege"
+}, {
+  "Nome" : "PIERRE",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-11",
+  "Pelo" : "Bege"
+}, {
+  "Nome" : "PENELOPE",
+  "Genero" : "F",
+  "Raca" : "Cocker Spaniel Americano",
+  "Idade" : 19,
+  "DataNascimento" : "2005-06-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "LUCK",
+  "Genero" : "M",
+  "Raca" : "Poodle Toy",
+  "Idade" : 21,
+  "DataNascimento" : "2002-11-15",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "MEL",
+  "Genero" : "F",
+  "Raca" : "Dogue Alemao",
+  "Idade" : 20,
+  "DataNascimento" : "2004-07-18",
+  "Pelo" : "Arlequim"
+}, {
+  "Nome" : "PRINCESINHA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 20,
+  "DataNascimento" : "2004-07-12",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "TCHUKO",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-15",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "REX",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 20,
+  "DataNascimento" : "2004-03-05",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "FLOR",
+  "Genero" : "F",
+  "Raca" : "Yorkshire Terrier",
+  "Idade" : 18,
+  "DataNascimento" : "2006-06-25",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "THETHA",
+  "Genero" : "F",
+  "Raca" : "Pastor Alemao",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-20",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "ORFEU",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-10",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "BETHOVEN",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-03-12",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "TUPA",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 20,
+  "DataNascimento" : "2004-03-10",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "MEL",
+  "Genero" : "F",
+  "Raca" : "Yorkshire Terrier",
+  "Idade" : 19,
+  "DataNascimento" : "2004-11-26",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "MIUCHA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 28,
+  "DataNascimento" : "1995-11-10",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "FALCOM",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-17",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "TIGRE",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-01",
+  "Pelo" : "Tigrado"
+}, {
+  "Nome" : "MEL",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 22,
+  "DataNascimento" : "2002-07-08",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "TAYGRA",
+  "Genero" : "F",
+  "Raca" : "Husky Siberiano",
+  "Idade" : 27,
+  "DataNascimento" : "1997-03-11",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "ULLY",
+  "Genero" : "F",
+  "Raca" : "Border Collie",
+  "Idade" : 18,
+  "DataNascimento" : "2006-03-26",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "PRENDA",
+  "Genero" : "F",
+  "Raca" : "Pit Bull",
+  "Idade" : 21,
+  "DataNascimento" : "2003-07-10",
+  "Pelo" : "Branco e Preto"
+}, {
+  "Nome" : "PEROLA",
+  "Genero" : "F",
+  "Raca" : "American Staffordshire Terrier",
+  "Idade" : 18,
+  "DataNascimento" : "2006-06-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "MELISSA",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 31,
+  "DataNascimento" : "1993-03-20",
+  "Pelo" : "Dourado"
+}, {
+  "Nome" : "JOAO CASSEB",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-12",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "DUDU",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 25,
+  "DataNascimento" : "1999-01-09",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "BABI",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 29,
+  "DataNascimento" : "1995-01-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "TOB",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 31,
+  "DataNascimento" : "1993-03-10",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "BARBIE",
+  "Genero" : "F",
+  "Raca" : "Bee",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-01",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "TODDY",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 30,
+  "DataNascimento" : "1994-01-18",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "MEL",
+  "Genero" : "F",
+  "Raca" : "Poodle Standard",
+  "Idade" : 21,
+  "DataNascimento" : "2003-07-07",
+  "Pelo" : "Branca"
+}, {
+  "Nome" : "MAX",
+  "Genero" : "M",
+  "Raca" : "SRD",
+  "Idade" : 23,
+  "DataNascimento" : "2001-03-02",
+  "Pelo" : "Marrom"
+}, {
+  "Nome" : "MEL",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 22,
+  "DataNascimento" : "2002-01-20",
+  "Pelo" : "Amarelo"
+}, {
+  "Nome" : "BOB",
+  "Genero" : "M",
+  "Raca" : "Poodle Toy",
+  "Idade" : 25,
+  "DataNascimento" : "1999-03-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "PINK",
+  "Genero" : "F",
+  "Raca" : "SRD",
+  "Idade" : 18,
+  "DataNascimento" : "2006-06-12",
+  "Pelo" : "Branco e Marrom"
+}, {
+  "Nome" : "MEG",
+  "Genero" : "F",
+  "Raca" : "Poodle Toy",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-10",
+  "Pelo" : "Branca"
+} ]

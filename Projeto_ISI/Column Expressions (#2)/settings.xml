@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="expressions">
+            <config key="element 0">
+                <entry key="expression" type="xstring" value="if (column(&quot;Sexo&quot;) == &quot;F&quot; || column(&quot;Sexo&quot;) == &quot;M&quot;) {%%00010    &quot;Valid&quot;%%00010} else {%%00010    &quot;Invalid&quot;%%00010}"/>
+                <entry key="outputName" type="xstring" value="Valid_Sexo"/>
+                <config key="outputType">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+                <entry key="replaceColumn" type="xboolean" value="false"/>
+                <entry key="isCollection" type="xboolean" value="false"/>
+            </config>
+            <config key="element 1">
+                <entry key="expression" type="xstring" value="dataOriginal = column(&quot;Data_nasc&quot;);%%00010%%00010regexResult = regexReplace(dataOriginal, &quot;(\\d{2})/([a-zA-Z]{3})/(\\d{2})&quot;, &quot;$1;$2;$3&quot;);%%00010%%00010partes = split(regexResult, &quot;;&quot;);%%00010%%00010dia = partes[0];%%00010mes = lowerCase(partes[1]);%%00010ano = partes[2];%%00010%%00010if (mes == &quot;jan&quot;) %%00010{%%00010    mesFinal = &quot;01&quot;;%%00010}%%00010else if (mes == &quot;fev&quot;) %%00010{%%00010    mesFinal = &quot;02&quot;;%%00010} %%00010else if (mes == &quot;mar&quot;) %%00010{%%00010    mesFinal = &quot;03&quot;;%%00010} %%00010else if (mes == &quot;abr&quot;) %%00010{%%00010    mesFinal = &quot;04&quot;;%%00010} %%00010else if (mes == &quot;mai&quot;)%%00010{%%00010    mesFinal = &quot;05&quot;;%%00010} %%00010else if (mes == &quot;jun&quot;)%%00010{%%00010    mesFinal = &quot;06&quot;;%%00010} %%00010else if (mes == &quot;jul&quot;)%%00010{%%00010    mesFinal = &quot;07&quot;;%%00010} %%00010else if (mes == &quot;aug&quot;) %%00010{%%00010    mesFinal = &quot;08&quot;;%%00010} %%00010else if (mes == &quot;set&quot;) %%00010{%%00010    mesFinal = &quot;09&quot;;%%00010} %%00010else if (mes == &quot;out&quot;) %%00010{%%00010    mesFinal = &quot;10&quot;;%%00010} %%00010else if (mes == &quot;nov&quot;) %%00010{%%00010    mesFinal = &quot;11&quot;;%%00010} %%00010else if (mes == &quot;dez&quot;) %%00010{%%00010    mesFinal = &quot;12&quot;;%%00010} %%00010else %%00010{%%00010    mesFinal = &quot;00&quot;; %%00010}%%00010%%00010if (toInt(ano) &gt; 24) %%00010{%%00010    anoCompleto = &quot;19&quot; + ano;%%00010} %%00010else %%00010{%%00010    anoCompleto = &quot;20&quot; + ano;%%00010}%%00010%%00010dia + &quot;/&quot; + mesFinal + &quot;/&quot; + anoCompleto%%00010"/>
+                <entry key="outputName" type="xstring" value="Data_Valida"/>
+                <config key="outputType">
+                    <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
+                    <entry key="is_null" type="xboolean" value="false"/>
+                </config>
+                <entry key="replaceColumn" type="xboolean" value="false"/>
+                <entry key="isCollection" type="xboolean" value="false"/>
+            </config>
+        </config>
+        <entry key="count" type="xint" value="2"/>
+        <entry key="failOnInvalidAccess" type="xboolean" value="true"/>
+        <entry key="failOnScriptError" type="xboolean" value="false"/>
+        <entry key="multiRowAccessWindowSize" type="xint" value="0"/>
+        <entry key="multiRowAccessReturnFirstLastWhenOutOfBounds" type="xboolean" value="true"/>
+    </config>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.expressions.base.node.formulas.FormulasNodeFactory"/>
+    <entry key="node-name" type="xstring" value="Column Expressions"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Expression Nodes"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.expressions.base"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.3.0.v202405071532"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Column Expressions (Labs)"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.expressions.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.3.0.v202406200655"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Column Expressions"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 199, Cols: 7"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="821ddbc8-923e-4a4d-bd6f-b55fed031389"/>
+    </config>
+</config>

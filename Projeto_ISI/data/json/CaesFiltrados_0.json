@@ -1,0 +1,71 @@
+[ {
+  "Nome" : "MINE",
+  "Genero" : "F",
+  "Raca" : "Rottweiler",
+  "Idade" : 27,
+  "DataNascimento" : "1997-03-23",
+  "Pelo" : "Preto e Marrom"
+}, {
+  "Nome" : "LAILA",
+  "Genero" : "F",
+  "Raca" : "Rottweiler",
+  "Idade" : 21,
+  "DataNascimento" : "2002-11-15",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "TAYSON",
+  "Genero" : "M",
+  "Raca" : "Rottweiler",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-29",
+  "Pelo" : "Preto e Marrom"
+}, {
+  "Nome" : "AQUILES",
+  "Genero" : "M",
+  "Raca" : "Rottweiler",
+  "Idade" : 17,
+  "DataNascimento" : "2007-01-18",
+  "Pelo" : "Tigrado"
+}, {
+  "Nome" : "YAMA",
+  "Genero" : "F",
+  "Raca" : "Rottweiler",
+  "Idade" : 20,
+  "DataNascimento" : "2004-06-04",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "HERCULES",
+  "Genero" : "M",
+  "Raca" : "Rottweiler",
+  "Idade" : 18,
+  "DataNascimento" : "2006-07-07",
+  "Pelo" : "Caracteristica"
+}, {
+  "Nome" : "BRUCE",
+  "Genero" : "M",
+  "Raca" : "Rottweiler",
+  "Idade" : 23,
+  "DataNascimento" : "2001-03-15",
+  "Pelo" : "Tigrado"
+}, {
+  "Nome" : "LOLA",
+  "Genero" : "F",
+  "Raca" : "Rottweiler",
+  "Idade" : 18,
+  "DataNascimento" : "2006-03-07",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "BABY",
+  "Genero" : "F",
+  "Raca" : "Rottweiler",
+  "Idade" : 17,
+  "DataNascimento" : "2006-11-12",
+  "Pelo" : "Preta"
+}, {
+  "Nome" : "OZZY",
+  "Genero" : "M",
+  "Raca" : "Rottweiler",
+  "Idade" : 30,
+  "DataNascimento" : "1994-03-11",
+  "Pelo" : "Caracteristica"
+} ]
